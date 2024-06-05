@@ -1,6 +1,7 @@
 # ProteinIntensity
 Custom made MATLAB pipeline by Andrew Liu from the Carthew Lab @ Northwestern University. The code will measure the protein fluorescent intensity along the AP and DV axis in the wing pouch of Drosophila.
-This code is companion to the eLife publication [link to eLife](https://doi.org/10.7554/eLife.91572.3).
+This code is companion to the eLife publication: 
+Liu A., O’Connell M., Wall F., Carthew R., (2024) Scaling between cell cycle duration and wing growth is regulated by Fat-Dachsous signaling in Drosophila. eLife. [https://doi.org/10.7554/eLife.91572.3](https://doi.org/10.7554/eLife.91572.3).
 
 # Tutorial
 There is a word document that runs through a tutorial of the pipeline. Download the image from [here](https://drive.google.com/drive/folders/178yYnFTx-MfmvMu2XNUczxScSD2Hw9hg?usp=sharing).
