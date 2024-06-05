@@ -1,6 +1,6 @@
 # ProteinIntensity
 Custom made MATLAB pipeline by Andrew Liu from the Carthew Lab @ Northwestern University. The code will measure the protein fluorescent intensity along the AP and DV axis in the wing pouch of Drosophila.
-This code is companion to the publication [link to bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.01.551465v1).
+This code is companion to the eLife publication [link to eLife](https://doi.org/10.7554/eLife.91572.3).
 
 # Tutorial
 There is a word document that runs through a tutorial of the pipeline. Download the image from [here](https://drive.google.com/drive/folders/178yYnFTx-MfmvMu2XNUczxScSD2Hw9hg?usp=sharing).
